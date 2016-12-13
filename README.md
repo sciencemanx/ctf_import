@@ -2,7 +2,7 @@
 
 > A small library that allows you to run basic functions from stripped binaries cross platform
 
-[Website](http://van.prooyen.com/projects/%23ctfimport)
+[Website](http://van.prooyen.com/projects/#ctfimport)
 
 ## Usage
 
